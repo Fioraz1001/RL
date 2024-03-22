@@ -14,7 +14,7 @@
 
 ### Reward modeling
 
-**A General Language Assistant as a Laboratory for Alignment**, arXiv-2021.12 [[Paper](http://arxiv.org/abs/2112.00861)]
+- **A General Language Assistant as a Laboratory for Alignment**, arXiv-2021.12 [[Paper](http://arxiv.org/abs/2112.00861)]
 
 ### Basic RLHF
 
