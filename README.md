@@ -34,6 +34,7 @@
 
 - **Constitutional AI: Harmlessness from AI Feedback**, arXiv-2022.12 [[Paper](https://arxiv.org/abs/2212.08073)] [[GitHub](https://github.com/anthropics/ConstitutionalHarmlessnessPaper)]
 - **RLAIF: Scaling Reinforcement Learning from Human Feedback with AI Feedback**, arXiv-2023.12 [[Paper](https://arxiv.org/abs/2309.00267)]
+- **AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback**, NeurIPS-2023 [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5fc47800ee5b30b8777fdd30abcaaf3b-Abstract-Conference.html)] [[GitHub](https://github.com/tatsu-lab/alpaca_farm)]
 
 ### RLHF-based non-RL fine-tuning
 
