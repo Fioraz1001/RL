@@ -18,12 +18,12 @@
 
 ### Basic RLHF
 
-**Training language models to follow instructions with human feedback**, NeurIPS-2022 [[Paper](https://papers.nips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html)]
-**Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback**, arXiv-2022.04 [[Paper](http://arxiv.org/abs/2204.05862)] [[Feedback Dataset (GitHub)](https://github.com/anthropics/hh-rlhf)] [[Feedback Dataset (HF)](https://huggingface.co/datasets/Anthropic/hh-rlhf)]
+- **Training language models to follow instructions with human feedback**, NeurIPS-2022 [[Paper](https://papers.nips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html)]
+- **Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback**, arXiv-2022.04 [[Paper](http://arxiv.org/abs/2204.05862)] [[Feedback Dataset (GitHub)](https://github.com/anthropics/hh-rlhf)] [[Feedback Dataset (HF)](https://huggingface.co/datasets/Anthropic/hh-rlhf)]
 
 ### RLHF-based non-RL fine-tuning
 
-**Direct Preference Optimization: Your Language Model is Secretly a Reward Model**, NeurIPS-2023 [[Paper](https://papers.nips.cc/paper_files/paper/2023/hash/a85b405ed65c6477a4fe8302b5e06ce7-Abstract-Conference.html)] [[GitHub](https://github.com/eric-mitchell/direct-preference-optimization)]
+- **Direct Preference Optimization: Your Language Model is Secretly a Reward Model**, NeurIPS-2023 [[Paper](https://papers.nips.cc/paper_files/paper/2023/hash/a85b405ed65c6477a4fe8302b5e06ce7-Abstract-Conference.html)] [[GitHub](https://github.com/eric-mitchell/direct-preference-optimization)]
 
 ## RLHF for downstream tasks
 
