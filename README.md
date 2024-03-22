@@ -21,6 +21,7 @@
 - **Tool-Augmented Reward Modeling**, ICLR-2024 [[Paper](https://openreview.net/forum?id=d94x0gWTUX)] [[GitHub](https://github.com/ernie-research/Tool-Augmented-Reward-Model)]
 - **Let's Verify Step by Step**, ICLR-2024 [[Paper](https://openreview.net/forum?id=v8L0pN6EOi)]
 - **BeaverTails: Towards Improved Safety Alignment of LLM via a Human-Preference Dataset**, NeurIPS-2023 [[Paper](https://papers.nips.cc/paper_files/paper/2023/hash/4dbb61cb68671edc4ca3712d70083b9f-Abstract-Datasets_and_Benchmarks.html)] [[GitHub](https://github.com/PKU-Alignment/beavertails)] [[Feedback Dataset](https://huggingface.co/datasets/PKU-Alignment/PKU-SafeRLHF)]
+- **Aligning Large Language Models through Synthetic Feedback**, EMNLP-2023 [[Paper](https://aclanthology.org/2023.emnlp-main.844/)] [[GitHub](https://github.com/naver-ai/almost)]
 
 ### Basic RLHF
 
