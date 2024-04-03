@@ -22,6 +22,7 @@
 - **Let's Verify Step by Step**, ICLR-2024 [[Paper](https://openreview.net/forum?id=v8L0pN6EOi)]
 - **BeaverTails: Towards Improved Safety Alignment of LLM via a Human-Preference Dataset**, NeurIPS-2023 [[Paper](https://papers.nips.cc/paper_files/paper/2023/hash/4dbb61cb68671edc4ca3712d70083b9f-Abstract-Datasets_and_Benchmarks.html)] [[GitHub](https://github.com/PKU-Alignment/beavertails)] [[Feedback Dataset](https://huggingface.co/datasets/PKU-Alignment/PKU-SafeRLHF)]
 - **Aligning Large Language Models through Synthetic Feedback**, EMNLP-2023 [[Paper](https://aclanthology.org/2023.emnlp-main.844/)] [[GitHub](https://github.com/naver-ai/almost)]
+- **Improving Large Language Models via Fine-grained Reinforcement Learning with Minimum Editing Constraint**, arXiv-2024-01 [[Paper](https://arxiv.org/abs/2401.06081)] [[GitHub](https://github.com/RUCAIBox/RLMEC)]
 
 ### Basic RLHF
 
@@ -30,6 +31,7 @@
 - **Safe RLHF: Safe Reinforcement Learning from Human Feedback**, ICLR-2024 [[Paper](https://openreview.net/forum?id=TyFrPOKYXw)] [[GitHub](https://github.com/PKU-Alignment/safe-rlhf)]
 - **Confronting Reward Model Overoptimization with Constrained RLHF**, ICLR-2024 [[Paper](https://openreview.net/forum?id=gkfUvn0fLU)] [[GitHub](https://github.com/tedmoskovitz/ConstrainedRL4LMs)]
 - **WizardMath: Empowering Mathematical Reasoning for Large Language Models via Reinforced Evol-Instruct**, arXiv-2023.08 [[Paper](https://arxiv.org/abs/2308.09583)]
+- **Nash Learning from Human Feedback**, arXiv-2023.12 [[Paper](https://arxiv.org/abs/2312.00886)]
 
 ### RLAIF
 
@@ -43,6 +45,9 @@
 - **A General Theoretical Paradigm to Understand Learning from Human Preferences**, arXiv-2023.11 [[Paper](https://arxiv.org/abs/2310.12036)]
 - **Beyond Reverse KL: Generalizing Direct Preference Optimization with Diverse Divergence Constraints**, ICLR-2024 [[Paper](https://openreview.net/forum?id=2cRzmWXK9N)]
 - **Statistical Rejection Sampling Improves Preference Optimization**, ICLR-2024 [[Paper](https://openreview.net/forum?id=xbjSwwrQOe)]
+- **ULMA: Unified Language Model Alignment with Human Demonstration and Point-wise Preference**, arXiv-2024.02 [[Paper](https://arxiv.org/abs/2312.02554)] [[GitHub](https://github.com/Unified-Language-Model-Alignment/src)]
+- **KTO: Model Alignment as Prospect Theoretic Optimization**, arXiv-2024.02 [[Paper](https://arxiv.org/abs/2402.01306)] [[GitHub](https://github.com/ContextualAI/HALOs)]
+- **Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models**, arXiv-2024.02 [[Paper](https://arxiv.org/abs/2401.01335)] [[GitHub](https://github.com/uclaml/SPIN)]
 
 ## RLHF for downstream tasks
 
